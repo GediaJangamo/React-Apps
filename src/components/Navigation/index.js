@@ -43,7 +43,7 @@ export default function Nav(){
                 
                 
                 />
-                <tab.Screen name="Lista Produto" component={List} 
+                <tab.Screen name="List" component={List} 
                 options={
                     {
                         tabBarIcon: (tabInfo) =>{
